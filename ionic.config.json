@@ -1,0 +1,7 @@
+{
+  "name": "symbol-sdk-ionic-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
